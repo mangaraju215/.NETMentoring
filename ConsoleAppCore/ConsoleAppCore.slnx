@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../WpfApp1/WpfApp1.csproj" Id="a8433020-abee-45ce-a47b-4d050ec57837" />
+  <Project Path="ConsoleAppCore.csproj" />
+  <Project Path="Greeting/Greeting.csproj" />
+  <Project Path="WinFormsApp/WinFormsApp.csproj" />
+</Solution>
+

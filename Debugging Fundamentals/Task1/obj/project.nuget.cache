@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgKjPstedGg=",
+  "success": true,
+  "projectFilePath": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

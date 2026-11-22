@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|c:\\mangaraju\\dotnet\\mentoring\\debugging fundamentals\\task1\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|solutionrelative:task1\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|c:\\mangaraju\\dotnet\\mentoring\\debugging fundamentals\\task1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|solutionrelative:task1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|c:\\mangaraju\\dotnet\\mentoring\\debugging fundamentals\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D30FC03-4C6B-4208-890A-FDA4470768EE}|Task1\\Task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Product.cs",
+              "RelativeDocumentMoniker": "Task1\\Product.cs",
+              "ToolTip": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Product.cs",
+              "RelativeToolTip": "Task1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T07:59:10.678Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\mangaraju_pithani\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:02:16.091Z",
+              "EditorCaption": "",
+              "OwnerCaption": "Microsoft.NET.Test.Sdk.Program.cs"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Utilities.cs",
+              "RelativeDocumentMoniker": "Task1\\Utilities.cs",
+              "ToolTip": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Utilities.cs",
+              "RelativeToolTip": "Task1\\Utilities.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T07:50:09.782Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1",
+              "DocumentMoniker": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Task1.csproj",
+              "RelativeDocumentMoniker": "Task1\\Task1.csproj",
+              "ToolTip": "C:\\Mangaraju\\DotNet\\Mentoring\\Debugging Fundamentals\\Task1\\Task1.csproj",
+              "RelativeToolTip": "Task1\\Task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-20T07:41:48.712Z",
+              "EditorCaption": "",
+              "OwnerCaption": "Task1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

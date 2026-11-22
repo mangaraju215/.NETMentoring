@@ -1,0 +1,9 @@
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Mangaraju\DotNet\Mentoring\Debugging Fundamentals\Task1\obj\Debug\netcoreapp3.1\Task1.pdb

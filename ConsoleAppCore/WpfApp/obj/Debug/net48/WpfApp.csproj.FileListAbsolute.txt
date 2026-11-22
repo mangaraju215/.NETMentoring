@@ -1,0 +1,13 @@
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\bin\Debug\net48\WpfApp.exe.config
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\bin\Debug\net48\WpfApp.exe
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\bin\Debug\net48\WpfApp.pdb
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\bin\Debug\net48\Greeting.dll
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\bin\Debug\net48\Greeting.pdb
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.csproj.AssemblyReference.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.AssemblyInfoInputs.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.AssemblyInfo.cs
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.csproj.CoreCompileInputs.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.csproj.Up2Date
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.exe
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WpfApp\obj\Debug\net48\WpfApp.pdb

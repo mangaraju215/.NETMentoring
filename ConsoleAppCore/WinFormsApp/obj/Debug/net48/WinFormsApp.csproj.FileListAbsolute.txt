@@ -1,0 +1,13 @@
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\bin\Debug\net48\WinFormsApp.exe.config
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\bin\Debug\net48\WinFormsApp.exe
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\bin\Debug\net48\WinFormsApp.pdb
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\bin\Debug\net48\Greeting.dll
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\bin\Debug\net48\Greeting.pdb
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.csproj.AssemblyReference.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.AssemblyInfoInputs.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.AssemblyInfo.cs
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinForms.79E25943.Up2Date
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.exe
+C:\Mangaraju\DotNet\Mentoring\ConsoleAppCore\WinFormsApp\obj\Debug\net48\WinFormsApp.pdb

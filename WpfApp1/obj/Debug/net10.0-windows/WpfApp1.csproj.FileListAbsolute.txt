@@ -1,0 +1,4 @@
+C:\Mangaraju\DotNet\Mentoring\WpfApp1\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Mangaraju\DotNet\Mentoring\WpfApp1\obj\Debug\net10.0-windows\App.g.cs
+C:\Mangaraju\DotNet\Mentoring\WpfApp1\obj\Debug\net10.0-windows\WpfApp1_MarkupCompile.cache
+C:\Mangaraju\DotNet\Mentoring\WpfApp1\obj\Debug\net10.0-windows\WpfApp1_MarkupCompile.lref
