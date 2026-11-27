@@ -1,0 +1,27 @@
+1. What is break mode? What are the options to step through code?
+Break mode is when we keep breakpoints in the code and run through debugger. 
+F10,F11, F5, and Shift + F10 are using for next line, inside function, until next breakpoint, to complete current function.
+
+2. How to ignore some exceptions during debugging?
+In VS Debug-> windows -> Exception settings -> and clear the selection for which exception we want to ignore.
+
+3. How to set up conditional breakpoint?
+right click on Breakpoint -> in the condition place write a Boolean expression -> breakpoint stops if the expression is true.
+
+4. What is data breakpoint?
+while debugging -> in the watch window -> select a variable we want and right click -> Select 'Break when value changes' 
+ 
+5. What is trace point and how to use it?
+We can set message to the breakpoint with some expressions.. we can the evaluated expressions in output window. helps to understand deeper.
+
+6. What are pdb files, when are they created and how to use them?
+Pdb are programming Database.. it contains the mapped information of source code and compiled code . i.e symbols information. 
+we can view under Debug -> Windows -> Modules.
+
+7. What is symbol server?
+When you debug a project in the Visual Studio IDE, the debugger automatically loads symbol files that it can find by default.
+It searches for symbol files in project folder, dll folder location, 
+
+8. What are debug and release build configurations?
+Debug configuration is for debugging , variables linking - helpful for debugging. 
+Release configuration , optimization enabled -> less in exe size -> It is faster and optimal to run in prod.
